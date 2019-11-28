@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd74a84f.chunk.css",
+    "main.css": "/static/css/main.2dc052e2.chunk.css",
     "main.js": "/static/js/main.daffe27e.chunk.js",
     "main.js.map": "/static/js/main.daffe27e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5b2b56cd.js",
@@ -8,9 +8,9 @@
     "static/js/2.bf025896.chunk.js": "/static/js/2.bf025896.chunk.js",
     "static/js/2.bf025896.chunk.js.map": "/static/js/2.bf025896.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fdc0c130be8e1f00ff35a759e2d3ea54.js": "/precache-manifest.fdc0c130be8e1f00ff35a759e2d3ea54.js",
+    "precache-manifest.25bd4f220595769b8abef1312802d9e3.js": "/precache-manifest.25bd4f220595769b8abef1312802d9e3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.cd74a84f.chunk.css.map": "/static/css/main.cd74a84f.chunk.css.map",
+    "static/css/main.2dc052e2.chunk.css.map": "/static/css/main.2dc052e2.chunk.css.map",
     "static/media/1-discount.png": "/static/media/1-discount.1e697b0e.png",
     "static/media/1.jpg": "/static/media/1.ed3f9a45.jpg",
     "static/media/2-discount.png": "/static/media/2-discount.70af1d95.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.5b2b56cd.js",
     "static/js/2.bf025896.chunk.js",
-    "static/css/main.cd74a84f.chunk.css",
+    "static/css/main.2dc052e2.chunk.css",
     "static/js/main.daffe27e.chunk.js"
   ]
 }
