@@ -1,3 +1,26 @@
+/* Smartphones (горизонтальная) ----------- */
+
+@media screen and (min-device-width: 420px) {
+  li {
+    display: none;
+  } 
+}
+ @media screen and (device-width: 420px) {
+  li {
+    display: none;
+  } 
+}
+ @media screen and (device-width: 420px) {
+  li {
+    display: none;
+  } 
+}
+@media screen and (max-width: 420px) {
+  li {
+    display: none;
+  } 
+}
+
 .header-container {
   background-image: url("../assets/images/background-head.png");
   margin-left: -2em;

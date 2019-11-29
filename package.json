@@ -14,10 +14,10 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
-    "yarn": "^1.19.2"
+    "yarn": "^1.19.2",
+    "cross-env": "^6.0.3"
   },
   "devDependencies": {
-    "cross-env": "^6.0.3",
     "jest": "^24.9.0"
   }
 }

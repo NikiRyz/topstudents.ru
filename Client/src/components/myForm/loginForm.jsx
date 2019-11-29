@@ -1,7 +1,7 @@
 import React from "react";
 import { Field } from "redux-form";
 import { Input } from "./FormsControls/FormsControls";
-import { Link } from "react-router-dom";
+
 import {
   requiredField,
   validatePasswordCreator
@@ -9,8 +9,10 @@ import {
 
 const validatePassCreator = validatePasswordCreator(8);
 
-export default class LoginForm extends React.Component {
+class LoginForm extends React.Component {
+
   render() {
+    
     return (
       <form onSubmit={this.props.handleSubmit}>
         <div className="form-container">
@@ -50,11 +52,11 @@ export default class LoginForm extends React.Component {
               Запомнить меня{" "}
             </label>
           </div>
-          <Link to="/events">
             <input id="btn" type="submit" value="Войти" />
-          </Link>
         </div>
       </form>
     );
   }
 }
+
+export default (LoginForm);
