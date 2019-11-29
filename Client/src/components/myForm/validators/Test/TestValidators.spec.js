@@ -8,4 +8,4 @@ it ("Required Fields", () => {
 it ("Validator Min Length Password", () => {
     var minLength = 8
     expect(validatePasswordCreator(minLength)(['1111'])).toBe(`Длина символов должна быть не менее ${minLength}`);
-})
+}) 
